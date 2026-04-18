@@ -1,0 +1,6 @@
+order_id,order_date,City,Product,Category,Quantity,Price
+1001,1/10/2025,Pune,Laptop,Electronics,2,50000
+1002,1/11/2025,Mumbai,Mobile,Electronics,3,20000
+1003,1/12/2025,Pune,Headphones,Accessories,5,2000
+1004,1/13/2025,Nagpur,Keyboard,Accessories,4,1500
+1005,1/14/2025,Mumbai,Laptop,Electronics,1,50000
