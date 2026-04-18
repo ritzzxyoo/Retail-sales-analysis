@@ -4,7 +4,6 @@
 
 This project analyzes retail sales data using SQL, Python, Excel, and Power BI to extract meaningful business insights and build an interactive dashboard.
 
----
 
 📁 Dataset
 
@@ -12,7 +11,6 @@ This project analyzes retail sales data using SQL, Python, Excel, and Power BI t
 * Cities: Mumbai, Pune, Nagpur
 * Total Revenue: ₹2,26,000
 
----
 
 🛠 Tools Used
 
@@ -21,7 +19,6 @@ This project analyzes retail sales data using SQL, Python, Excel, and Power BI t
 * Excel
 * Power BI
 
----
 
 📈 Key Insights
 
@@ -31,7 +28,6 @@ This project analyzes retail sales data using SQL, Python, Excel, and Power BI t
 * 📊 Electronics dominate (~93% of total sales)
 * 🎧 Headphones sold most units
 
----
 
  📊 Dashboard Features
 
@@ -41,7 +37,6 @@ This project analyzes retail sales data using SQL, Python, Excel, and Power BI t
 * Category Distribution (Pie Chart)
 * Sales Trend Over Time (Line Chart)
 
----
 📂 Project Files
 
 * `sales.csv` → Dataset
@@ -51,7 +46,6 @@ This project analyzes retail sales data using SQL, Python, Excel, and Power BI t
 * `project_dashboard.pbix` → Power BI dashboard
 * `Capstone_Report.pdf` → Final report
 
----
 
 🚀 Conclusion
 
