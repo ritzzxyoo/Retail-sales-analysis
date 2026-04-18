@@ -1,4 +1,6 @@
  📊 Retail Sales Analysis Dashboard
+ ![Dashboard](<img width="507" height="287" alt="dashboard_image" src="https://github.com/user-attachments/assets/c65de535-01b8-4960-90aa-3f5fe6b700b6" />
+)
 
 📌 Project Overview
 
